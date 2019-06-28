@@ -1,4 +1,4 @@
-// Discovery Rule prepricessing JavaScript filter
+// Discovery Rule preprocessing JavaScript filter
 // function (value) {
 function convert1251toutf8(utftext) {
     var string = "";
